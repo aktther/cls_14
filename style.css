@@ -1,0 +1,12 @@
+.fulldiv{
+   
+   width: 1024px;
+    margin: 20px auto;
+    background-color:#95a5a6 ;
+    
+}
+ol li{
+    font-size: 20px;
+    font-family: 'Anton', sans-serif;
+    color: red;
+}
